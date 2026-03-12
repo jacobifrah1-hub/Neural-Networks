@@ -1,4 +1,4 @@
-# Neural-Networks-Final-Project
+# Neural-Networks
 This project applies deep learning techniques to the detection of default credit card transactions using the Kaggle Credit Card Default Detection dataset as well as a normalized version of dataset from anomaly detection. Because default cases are extremely rare and hidden within complex, nonlinear patterns, we develop and evaluate a Multilayer Perceptron (MLP) model trained with class-balancing techniques to address the severe imbalance. The MLP learns nonlinear relationships in the PCA-transformed features and produces strong discrimination between legitimate and defaults. The results demonstrate that deep learning, specifically MLP architectures, can effectively identify anomalies in financial datasets, offering a foundation for real-world default detection systems.
 
 The person who worked on this project was Jacob Ifrah
